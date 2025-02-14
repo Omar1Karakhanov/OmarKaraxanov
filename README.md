@@ -23,9 +23,9 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to Make Money Selling E-books](https://www.youtube.com/YOUR_VIDEO)
-- [Creating a Profitable Digital Product Business](https://www.youtube.com/YOUR_VIDEO)
-- [Best Tools for Frontend Developers](https://www.youtube.com/YOUR_VIDEO)
+- [How to Make Money Selling E-books]([https://www.youtube.com/YOUR_VIDEO](https://www.youtube.com/watch?v=ZHZlY0YTyuw))
+- [Creating a Profitable Digital Product Business]([https://www.youtube.com/YOUR_VIDEO](https://www.youtube.com/watch?v=0plVE1LRxYo))
+- [Best Tools for Frontend Developers]([https://www.youtube.com/YOUR_VIDEO](https://www.youtube.com/watch?v=TBIjgBVFjVI))
 
 <h2> 🤝 Connect with me:</h2>
 
@@ -34,7 +34,7 @@
 [<img align="left" alt="Omar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Omar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/YOUR_TWITTER
-[youtube]: https://www.youtube.com/c/YOUR_YOUTUBE
-[instagram]: https://www.instagram.com/YOUR_INSTAGRAM/
-[linkedin]: https://linkedin.com/in/YOUR_LINKEDIN
+
+
+[instagram]:[ https://www.instagram.com/YOUR_INSTAGRAM/](https://www.instagram.com/k8_o777/)
+[linkedin]: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/omar-karakhanovi-a16464351/)
