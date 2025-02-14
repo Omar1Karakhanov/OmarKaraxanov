@@ -34,6 +34,9 @@
 [<img align="left" alt="Omar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Omar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[twitter]: https://twitter.com/https://x.com/karaxanov7
+[youtube]: https://www.youtube.com/c/https://www.youtube.com/@Karax777
+[instagram]: https://www.instagram.com//https://www.instagram.com/k8_o777/
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/omar-karakhanovi-a16464351/
 
 
