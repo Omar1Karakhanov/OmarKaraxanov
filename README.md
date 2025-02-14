@@ -36,5 +36,4 @@
 
 
 
-[instagram]:([https://www.instagram.com/k8_o777//YOUR_INSTAGRAM/])
-[linkedin]: [[https://linkedin.com](https://www.linkedin.com/in/omar-karakhanovi-a16464351/)
+
