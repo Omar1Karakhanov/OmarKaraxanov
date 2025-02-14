@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar! <br/><a href="https://github.com/YOUR_GITHUB">Frontend Developer</a>.
+<h1>Hi, I'm Omar! <br/><a href="https://github.com/YOUR_GITHUB">Front/end Developer</a>.
 
 <h2> You can see my project, from my profile which is in another repository.</h2>
 
