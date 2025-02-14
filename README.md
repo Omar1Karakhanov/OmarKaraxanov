@@ -1,19 +1,6 @@
 <h1>Hi, I'm Omar! <br/><a href="https://github.com/YOUR_GITHUB">Frontend Developer</a>, <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">Entrepreneur</a>, <a href="https://www.youtube.com/c/YOUR_YOUTUBE">Content Creator</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Frontend Web Development</b>
-  - [Modern UI/UX Portfolio Website](https://github.com/YOUR_GITHUB/portfolio-website)
-  - [E-commerce Website (HTML, CSS, JavaScript)](https://github.com/YOUR_GITHUB/e-commerce-app)
-- <b>Business Projects</b>
-  - [E-book Selling Platform](https://github.com/YOUR_GITHUB/ebook-store)
-  - [Student Resource Hub (PDFs & Courses)](https://github.com/YOUR_GITHUB/student-resources)
-- <b>JavaScript & Angular Apps</b>
-  - [Task Manager App](https://github.com/YOUR_GITHUB/task-manager)
-  - [Weather App with API Integration](https://github.com/YOUR_GITHUB/weather-app)
-- <b>YouTube Content & Side Projects</b>
-  - [Fake Conversations Generator for YouTube Shorts](https://github.com/YOUR_GITHUB/fake-conversations)
-  - [AI-Powered Chatbot (JavaScript & OpenAI API)](https://github.com/YOUR_GITHUB/ai-chatbot)
+<h2> You can see my project, from my profile which is in another repository.</h2>
 
 <h2>📚 Education & Learning</h2>
 - Completed <b>ITStep Academy</b> course, learning HTML, CSS, SCSS and  JavaScript.
